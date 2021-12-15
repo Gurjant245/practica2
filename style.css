@@ -1,7 +1,11 @@
-
-p.green {
-    color: green;
+p#blue {
+    color: blue;
 }
+
 p.red {
     color: red;
+}
+
+p {
+    color: green;
 }
