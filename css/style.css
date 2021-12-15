@@ -2,10 +2,11 @@ p#blue {
     color: blue;
 }
 
+p {
+    color: green;
+}
+
 p.red {
     color: red;
 }
 
-p {
-    color: green;
-}
